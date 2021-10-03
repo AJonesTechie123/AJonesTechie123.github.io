@@ -1,2 +1,1 @@
-# [AssignmentOne](https://AJonesTechie123.github.io/Assignment1/Assignment1.html)
-This project was a inro to HTML This is my first try. Yay!
+This page contains all my side projects I have completed from the beginning of my WebDev journey!
